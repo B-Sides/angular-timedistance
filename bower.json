@@ -1,0 +1,12 @@
+{
+  "author": "Mike Desjardins, Burnside Digital",
+  "name": "angular-bd.timedistance",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "jquery": "latest"
+  }
+}
