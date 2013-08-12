@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('bd.timedistance', [])
-  .filter('timeDistance', function ($log) {
+  .filter('timeDistance', function () {
 		// poor man's i18n
 		var LESS_THAN = 'less than';
     var ABOUT = 'about';
