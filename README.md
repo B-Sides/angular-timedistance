@@ -1,5 +1,5 @@
 # bd.timedistance
-[![Build Status](https://travis-ci.org/B-sides/angular-timedistance.png)](https://travis-ci.org/B-sides/angular-timedistance)
+[![Build Status](https://travis-ci.org/B-Sides/angular-timedistance.png)](https://travis-ci.org/B-Sides/angular-timedistance)
 
 
 ## Getting Started
