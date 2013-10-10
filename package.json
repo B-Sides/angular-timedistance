@@ -36,5 +36,6 @@
     "grunt-ngmin": "0.0.3",
     "grunt-bump": "~0.0.10",
     "matchdep": "~0.1.2"
-  }
+  },
+  "main": "./src/bd.timedistance.js"
 }
