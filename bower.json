@@ -8,5 +8,6 @@
     "angular": "latest",
     "angular-mocks": "latest",
     "jquery": "latest"
-  }
+  },
+  "main": "./src/bd.timedistance.js"
 }
